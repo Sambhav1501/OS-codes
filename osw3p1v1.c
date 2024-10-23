@@ -1,3 +1,4 @@
+//without structure
 #include<stdio.h>
 
 void FCFS(int at[],int bt[],int n)
